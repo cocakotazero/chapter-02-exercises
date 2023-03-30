@@ -4,7 +4,7 @@ This exercise is a brief review of terminal commands.
 Open up your command-line terminal, and perform the following tasks (no need to fork or download this repository):
 
 ```bash
-# Navigate to your "Documents" directory
+# Navigate to your "Documents" directory hahahahahaha
 
 
 # Create a new folder called "quick-exercise"
